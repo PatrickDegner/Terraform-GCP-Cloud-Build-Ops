@@ -1,5 +1,5 @@
 module "patrickbuck1" {
-  source  = "../../modules/GCS"
+  source  = "../../../modules/GCS"
   name       = "patrickbuck1"
   project_id = "terraform-project-378819"
   location   = "europe-west3"
