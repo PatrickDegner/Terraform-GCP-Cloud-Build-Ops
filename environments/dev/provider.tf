@@ -4,5 +4,3 @@ provider "google" {
   zone = "europe-west3-a"
   credentials = "gs://pd-terraform-backend/key.json"
 }
-
-
